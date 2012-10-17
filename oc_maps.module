@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OC Maps feature.
+ */
+
+include_once 'oc_maps.features.inc';

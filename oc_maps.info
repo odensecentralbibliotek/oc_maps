@@ -1,0 +1,9 @@
+name = OC Maps
+description = Maps centered on 
+core = 7.x
+package = OC
+dependencies[] = ctools
+dependencies[] = openlayers
+features[ctools][] = openlayers:openlayers_maps:1
+features[features_api][] = api:1
+features[openlayers_maps][] = ding_library_map_odense
